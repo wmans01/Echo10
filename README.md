@@ -13,11 +13,11 @@ Echo10 is a 11 key macropad (10.57% of the keys of an actual keyboard, hence the
 ## CAD Model:
 Case assembled using 4 M3 bolts, screwed directly into plastic on the four corners of the case. 
 
-![CAD Rendering of Echo10](/Images/Echo10WithSwitches.png)
+![CAD Rendering of Echo10](/assets/Echo10WithSwitches.png)
 
 The case also has an 8 degree incline for ergonomics
 
-![CAD Rendering of Echo10](/Images/Echo10WithSwitchesBottom.png)
+![CAD Rendering of Echo10](/assets/Echo10WithSwitchesBottom.png)
 
 Made and rendered in Autodesk Inventor
 
@@ -25,8 +25,8 @@ Made and rendered in Autodesk Inventor
 ## PCB
 This is the PCB for the Echo10. It is a two layer PCB with ground planes on both sides and uses via stitching. <br>
 
-![Schematic](/Images/Schematic.png)
-![PCB Layout](/Images/PCB.png)
+![Schematic](/assets/Schematic.png)
+![PCB Layout](/assets/PCB.png)
 ###### Designed with KiCAD.
 
 I used MX_V2 for the keyswitch footprints. In retrospect, adding feedback through a display or LED might have been more effective. I also could have been more fancy with the designs on the silkscreen.
